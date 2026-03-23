@@ -173,12 +173,6 @@ pip install qiskit qiskit-aer numpy matplotlib
 
 ## Usage
 
-```bash
-jupyter notebook Sharanya-C-Grovers-Algorithm-Project.ipynb
-```
-
-Execute the cells sequentially to:
-
 1. Review the algorithm theory and mathematical framework.  
 2. Run **Part A** (IBM-style oracle) simulation across $k = 1, 3, 5, 10, 17$.  
 3. Run **Part B** (Phase Kickback oracle) simulation across the same iteration counts.  
